@@ -1,7 +1,2 @@
 
-==== CYGWIN USERS !!!!
-Use the following configure command with any other desired options for configuring
-since optimization in Cygwin may cause segfaults during semaphore initialization.
-
-./configure "CXXFLAGS=-O0"
-
+This project is from about 2010. I hope to slowly get this working again because I'd like to use it. It's an ncurses and command line trash can that integrates with linux desktop trash cans. Thus, what's in the desktop trash can shows on the command line and vice versa.
